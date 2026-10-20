@@ -1,0 +1,55 @@
+Reference ID,Product Name,Category,Brand,Manufacturer Part Number,Pump Model,Diameter (mm),Inner Diameter (mm),Outer Diameter (mm),Length (mm),Thickness (mm),Material,Selling Price,Stock Quantity,Stock Status,Image URL,Verified,Published
+1,Check Valve Spindle,Check Valve & Pump Assembly,,PART-001,General Submersible NRV Assembly,16,,,95,,Brass / Gunmetal,350.0,10,In Stock,/products/part_1.webp,Yes,Yes
+2,Outlet Flange,Check Valve & Pump Assembly,,,,,,,,,,,0,Contact for Availability,/products/part_2.webp,No,No
+3,Check Valve Seat,Check Valve & Pump Assembly,,,,,,,,,,,0,Contact for Availability,/products/part_3.webp,No,No
+4,Check Valve Sleeve,Check Valve & Pump Assembly,,,,,,,,,,,0,Contact for Availability,/products/part_4.webp,No,No
+5,Check Valve Disc,Check Valve & Pump Assembly,,,,,,,,,,,0,Contact for Availability,/products/part_5.webp,No,No
+6,Check Valve Body,Check Valve & Pump Assembly,,,,,,,,,,,0,Contact for Availability,/products/part_6.webp,No,No
+7,Shaft,Rotating Parts & Hydraulics,PSG Pumps & Motors,PART-007,"PSG OS-3, PSG MB-2",25,,,450,,Stainless Steel 410,1200.0,6,In Stock,/products/part_7.webp,Yes,Yes
+7,Shaft,Rotating Parts & Hydraulics,PSG Pumps & Motors,PART-007,"PSG OS-3, PSG MB-2",28,,,520,,Stainless Steel 410,1450.0,4,In Stock,/products/part_7.webp,Yes,Yes
+8,Pump Bowl,Check Valve & Pump Assembly,,,,,,,,,,,0,Contact for Availability,/products/part_8.webp,No,No
+9,Bearing,"Bearings, Seals & Retention",CRI Pumps,PART-009,"PSG Monobloc MB-2, CRI Monobloc",,25,52,,,Chrome Steel,280.0,25,In Stock,/products/part_9.webp,Yes,Yes
+9,Bearing,"Bearings, Seals & Retention",CRI Pumps,PART-009,"PSG Monobloc MB-2, CRI Monobloc",,30,72,,,Chrome Steel,420.0,18,In Stock,/products/part_9.webp,Yes,Yes
+10,Taper Sleeve,"Bearings, Seals & Retention",,,,,,,,,,,0,Contact for Availability,/products/part_10.webp,No,No
+11,Impeller,Rotating Parts & Hydraulics,PSG Pumps & Motors,PART-011,"PSG OS-3, CRI OSW-3",,,110,,,Gunmetal / Bronze,850.0,12,In Stock,/products/part_11.webp,Yes,Yes
+11,Impeller,Rotating Parts & Hydraulics,PSG Pumps & Motors,PART-011,"PSG OS-3, CRI OSW-3",,,120,,,Gunmetal / Bronze,950.0,8,In Stock,/products/part_11.webp,Yes,Yes
+11,Impeller,Rotating Parts & Hydraulics,PSG Pumps & Motors,PART-011,"PSG OS-3, CRI OSW-3",,,135,,,Cast Iron,1150.0,5,In Stock,/products/part_11.webp,Yes,Yes
+12,Wear Ring,Rotating Parts & Hydraulics,CRI Pumps,PART-012,PSG OS-3,,112,124,,6,Leaded Bronze,380.0,14,In Stock,/products/part_12.webp,Yes,Yes
+13,"Double-End Bolt, Nut and Backing Ring","Bearings, Seals & Retention",,,,,,,,,,,0,Contact for Availability,/products/part_13.webp,No,No
+14,Suction Lantern,Check Valve & Pump Assembly,,,,,,,,,,,0,Contact for Availability,/products/part_14.webp,No,No
+15,Lead Wire,Electrical & Miscellaneous,,,,,,,,,,,0,Contact for Availability,/products/part_15.webp,No,No
+16,Coupling,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_16.webp,No,No
+17,Bond,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_17.webp,No,No
+18,Positioning Pin,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_18.webp,No,No
+19,Positioning Screw,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_19.webp,No,No
+20,Coupling Bolt,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_20.webp,No,No
+21,Motor (confirm precise component name),"Bearings, Seals & Retention",,,,,,,,,,,0,Contact for Availability,/products/part_21.webp,No,No
+22,Slinger,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_22.webp,No,No
+23,Oil Seal Gland,"Bearings, Seals & Retention",,,,,,,,,,,0,Contact for Availability,/products/part_23.webp,No,No
+24,Reinforced Seal,"Bearings, Seals & Retention",,,,,,,,,,,0,Contact for Availability,/products/part_24.webp,No,No
+25,Water Injection Hole Plug,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_25.webp,No,No
+26,Lead Wire Seal Washer and Steel Washer,"Bearings, Seals & Retention",,,,,,,,,,,0,Contact for Availability,/products/part_26.webp,No,No
+27,Oil Seal Sleeve,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_27.webp,No,No
+28,Upper Guide Bearing Block,"Bearings, Seals & Retention",,,,,,,,,,,0,Contact for Availability,/products/part_28.webp,No,No
+29,Bearing Liner,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_29.webp,No,No
+30,Rotor Upper Steel Sleeve,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_30.webp,No,No
+31,Motor Rotor,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_31.webp,No,No
+32,Motor Stator,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_32.webp,No,No
+33,Motor Shell,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_33.webp,No,No
+34,Lower Guide Bearing Block,"Bearings, Seals & Retention",,,,,,,,,,,0,Contact for Availability,/products/part_34.webp,No,No
+35,Rotor Lower Steel Sleeve,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_35.webp,No,No
+36,Lower Bearing Liner,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_36.webp,No,No
+37,Thrust Disc Bond,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_37.webp,No,No
+38,Locking Nut and Locking Pieces,"Bearings, Seals & Retention",,,,,,,,,,,0,Contact for Availability,/products/part_38.webp,No,No
+39,Upper Thrust Bearing,Rotating Parts & Hydraulics,,PART-039,"CRI 4"" Submersible W-4",,45,90,,12,Carbon / Hardened Steel,850.0,7,In Stock,/products/part_39.webp,Yes,Yes
+40,Slide Board / Plate,"Bearings, Seals & Retention",,,,,,,,,,,0,Contact for Availability,/products/part_40.webp,No,No
+41,Lower Thrust Bearing,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_41.webp,No,No
+42,Bracket,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_42.webp,No,No
+43,Check Screw / Attachment Screw,"Bearings, Seals & Retention",,,,,,,,,,,0,Contact for Availability,/products/part_43.webp,No,No
+44,Base,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_44.webp,No,No
+45,Ball,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_45.webp,No,No
+46,Motor Attachment Screw Cap / Capped Nut,"Bearings, Seals & Retention",,,,,,,,,,,0,Contact for Availability,/products/part_46.webp,No,No
+47,Adjustment Pads,"Bearings, Seals & Retention",,,,,,,,,,,0,Contact for Availability,/products/part_47.webp,No,No
+48,Drain Hole Plug,"Bearings, Seals & Retention",,,,,,,,,,,0,Contact for Availability,/products/part_48.webp,No,No
+49,Regulating Sleeve,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_49.webp,No,No
+50,Base Gland,Rotating Parts & Hydraulics,,,,,,,,,,,0,Contact for Availability,/products/part_50.webp,No,No
